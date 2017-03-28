@@ -1,0 +1,8 @@
+bin/
+.idea*
+lib/lwjgl
+.DS_Store
+/build/
+/.idea/
+/out/
+/video.mp4
